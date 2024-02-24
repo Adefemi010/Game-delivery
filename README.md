@@ -12,11 +12,10 @@ In the initial preparation phase, I performed the following task
   3. Data cleaning and formatting
 
 ### Analysis and Visualization
+![Game delivery 1](https://github.com/Adefemi010/Game-delivery/assets/149597242/1f6448d1-f08c-4229-af58-25f0c47c7151)
 
-![Game delivery 1](https://github.com/Adefemi010/Game-delivery/assets/149597242/b151b54b-7386-4da8-9ceb-83ae2be37f57)
+ ![Game delivery 2](https://github.com/Adefemi010/Game-delivery/assets/149597242/48c3dff3-9e60-4b8a-b42d-1b061a876ced)
 
-
-![Game delivery 2](https://github.com/Adefemi010/Game-delivery/assets/149597242/c240f920-6127-466a-aa4b-dedd5e8dbf03)
 
 ### Results and Findings
 1. The cumulative revenue from game deliveries reached an impressive £2,297,354.
