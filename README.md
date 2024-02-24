@@ -11,3 +11,9 @@ In the initial preparation phase, I performed the following task
   2. Handling duplicate and missing values
   3. Data cleaning and formatting
 
+### Analysis and Visualization
+
+![Game delivery 1](https://github.com/Adefemi010/Game-delivery/assets/149597242/b151b54b-7386-4da8-9ceb-83ae2be37f57)
+
+
+![Game delivery 2](https://github.com/Adefemi010/Game-delivery/assets/149597242/c240f920-6127-466a-aa4b-dedd5e8dbf03)
