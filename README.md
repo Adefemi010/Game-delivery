@@ -29,21 +29,20 @@ In the initial preparation phase, I performed the following task
 These figures offer insights into the timeliness of the game shipments, allowing for a comprehensive understanding of the delivery efficiency.
 5. This data indicates a declining trend in revenue over the four years. The highest revenue was recorded in 2019, with a gradual decrease each subsequent year, culminating in the lowest revenue in 2022. This trend could be indicative of various factors affecting the game delivery industry in the USA, such as market saturation, increased competition, changes in consumer preferences, or external economic factors. Further analysis would be required to pinpoint the exact causes and to develop strategies to counteract this decline in revenue.
   6. The highest revenue is generated from the "Mouse" subgroup, followed closely by "Nintendo" and "Puzzle". On the other end of the spectrum, the "RPG" subgroup generates the least revenue. This distribution suggests a varied consumer preference, with a significant inclination towards hardware components like "Mouse" and gaming consoles like "Nintendo", as well as puzzle games. The data provides valuable insights into market trends and consumer behavior, highlighting potential areas for investment and development within the gaming industry.
-7. New York City (£256,397): New York City contributes the highest revenue, showcasing a dominant market presence and likely being a key hub for sales.
-  
-8.Negative Profit Margins:
-  Profit Margins:
-  PS5 (-£17,733.00): This subgroup indicates a negative profit margin, resulting in a loss for PS5 products.
-  XBox (-£3,479.00): XBox products also show a negative profit margin, signaling decreased profitability.
-  Moderate Profit Margins:
+7. New York City (£256,397): New York City contributes the highest revenue, showcasing a dominant market presence and likely being a key hub for sales. 
+8. Negative Profit Margins:
+   Profit Margins:
+   PS5 (-£17,733.00): This subgroup indicates a negative profit margin, resulting in a loss for PS5 products.
+   XBox (-£3,479.00): XBox products also show a negative profit margin, signaling decreased profitability.
+   Moderate Profit Margins:
 
-  RPG (£952.00): While profitable, RPGs have a moderate profit margin compared to other categories.
-  Keyboards (£3,387.00): Keyboards demonstrate a moderate profit margin, indicating decent but not exceptional profitability.
-  Growing Profitability:
+   RPG (£952.00): While profitable, RPGs have a moderate profit margin compared to other categories.
+   Keyboards (£3,387.00): Keyboards demonstrate a moderate profit margin, indicating decent but not exceptional profitability.
+   Growing Profitability:
 
-  Fighting (£5,558.00): Positive profit indicates growing profitability for fighting games.
-  Crime (£6,530.00): Crime-themed games also show positive profit, suggesting an increasing level of profitability.
-  Stable and Strong Profit Margins:
+   Fighting (£5,558.00): Positive profit indicates growing profitability for fighting games.
+   Crime (£6,530.00): Crime-themed games also show positive profit, suggesting an increasing level of profitability.
+   Stable and Strong Profit Margins:
 
    Adventure (£6,956.00): Adventure games maintain a stable and positive profit margin.
    PS4 (£13,070.00): PS4 products demonstrate a positive profit margin, reflecting stable and consistent profitability.
