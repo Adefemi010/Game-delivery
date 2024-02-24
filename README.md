@@ -49,11 +49,11 @@ These figures offer insights into the timeliness of the game shipments, allowing
    Action (£18,132.00): Action games exhibit a relatively strong profit margin, suggesting stability and significant profitability.
    Puzzle (£21,280.00): Puzzle games show a higher profit margin, indicating a strong and stable level of profitability.
 
-  Top Profit Margins:
+   Top Profit Margins:
 
-  Nintendo (£26,586.00): Nintendo products demonstrate a strong profit margin, indicating a dominant market position and high profitability.
-  Fantasy (£30,200.00): Fantasy games exhibit an even higher profit margin, suggesting a robust market demand and strong profitability.
-  Sports (£34,053.00): Sports games show significant profit margins, reflecting a dominant market position and high profitability.
-  Cables (£41,932.00): Cables demonstrate substantial profit margins, suggesting a significant level of profitability within this subgroup.
-  Mouse (£44,492.00): Mouse products show even higher profit margins, indicating a strong market position and high profitability.
-  Controllers (£55,618.00): Controllers exhibit the highest profit margins among all subgroups, suggesting a dominant market position and exceptionally high profitability.
+   Nintendo (£26,586.00): Nintendo products demonstrate a strong profit margin, indicating a dominant market position and high profitability.
+   Fantasy (£30,200.00): Fantasy games exhibit an even higher profit margin, suggesting a robust market demand and strong profitability.
+   Sports (£34,053.00): Sports games show significant profit margins, reflecting a dominant market position and high profitability.
+   Cables (£41,932.00): Cables demonstrate substantial profit margins, suggesting a significant level of profitability within this subgroup.
+   Mouse (£44,492.00): Mouse products show even higher profit margins, indicating a strong market position and high profitability.
+   Controllers (£55,618.00): Controllers exhibit the highest profit margins among all subgroups, suggesting a dominant market position and exceptionally high profitability.
