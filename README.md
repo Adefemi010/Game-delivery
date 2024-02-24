@@ -32,28 +32,29 @@ These figures offer insights into the timeliness of the game shipments, allowing
 7. New York City (£256,397): New York City contributes the highest revenue, showcasing a dominant market presence and likely being a key hub for sales.
   
 8.Negative Profit Margins:
+  Profit Margins:
+  PS5 (-£17,733.00): This subgroup indicates a negative profit margin, resulting in a loss for PS5 products.
+  XBox (-£3,479.00): XBox products also show a negative profit margin, signaling decreased profitability.
+  Moderate Profit Margins:
 
-PS5 (-£17,733.00): This subgroup indicates a negative profit margin, resulting in a loss for PS5 products.
-XBox (-£3,479.00): XBox products also show a negative profit margin, signaling decreased profitability.
-Moderate Profit Margins:
+ RPG (£952.00): While profitable, RPGs have a moderate profit margin compared to other categories.
+ Keyboards (£3,387.00): Keyboards demonstrate a moderate profit margin, indicating decent but not exceptional profitability.
+ Growing Profitability:
 
-RPG (£952.00): While profitable, RPGs have a moderate profit margin compared to other categories.
-Keyboards (£3,387.00): Keyboards demonstrate a moderate profit margin, indicating decent but not exceptional profitability.
-Growing Profitability:
+ Fighting (£5,558.00): Positive profit indicates growing profitability for fighting games.
+ Crime (£6,530.00): Crime-themed games also show positive profit, suggesting an increasing level of profitability.
+ Stable and Strong Profit Margins:
 
-Fighting (£5,558.00): Positive profit indicates growing profitability for fighting games.
-Crime (£6,530.00): Crime-themed games also show positive profit, suggesting an increasing level of profitability.
-Stable and Strong Profit Margins:
+ Adventure (£6,956.00): Adventure games maintain a stable and positive profit margin.
+ PS4 (£13,070.00): PS4 products demonstrate a positive profit margin, reflecting stable and consistent profitability.
+ Action (£18,132.00): Action games exhibit a relatively strong profit margin, suggesting stability and significant profitability.
+ Puzzle (£21,280.00): Puzzle games show a higher profit margin, indicating a strong and stable level of profitability.
 
-Adventure (£6,956.00): Adventure games maintain a stable and positive profit margin.
-PS4 (£13,070.00): PS4 products demonstrate a positive profit margin, reflecting stable and consistent profitability.
-Action (£18,132.00): Action games exhibit a relatively strong profit margin, suggesting stability and significant profitability.
-Puzzle (£21,280.00): Puzzle games show a higher profit margin, indicating a strong and stable level of profitability.
-Top Profit Margins:
+ Top Profit Margins:
 
-Nintendo (£26,586.00): Nintendo products demonstrate a strong profit margin, indicating a dominant market position and high profitability.
-Fantasy (£30,200.00): Fantasy games exhibit an even higher profit margin, suggesting a robust market demand and strong profitability.
-Sports (£34,053.00): Sports games show significant profit margins, reflecting a dominant market position and high profitability.
-Cables (£41,932.00): Cables demonstrate substantial profit margins, suggesting a significant level of profitability within this subgroup.
-Mouse (£44,492.00): Mouse products show even higher profit margins, indicating a strong market position and high profitability.
-Controllers (£55,618.00): Controllers exhibit the highest profit margins among all subgroups, suggesting a dominant market position and exceptionally high profitability.
+ Nintendo (£26,586.00): Nintendo products demonstrate a strong profit margin, indicating a dominant market position and high profitability.
+ Fantasy (£30,200.00): Fantasy games exhibit an even higher profit margin, suggesting a robust market demand and strong profitability.
+ Sports (£34,053.00): Sports games show significant profit margins, reflecting a dominant market position and high profitability.
+ Cables (£41,932.00): Cables demonstrate substantial profit margins, suggesting a significant level of profitability within this subgroup.
+ Mouse (£44,492.00): Mouse products show even higher profit margins, indicating a strong market position and high profitability.
+ Controllers (£55,618.00): Controllers exhibit the highest profit margins among all subgroups, suggesting a dominant market position and exceptionally high profitability.
