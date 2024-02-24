@@ -30,13 +30,17 @@ These figures offer insights into the timeliness of the game shipments, allowing
 5. This data indicates a declining trend in revenue over the four years. The highest revenue was recorded in 2019, with a gradual decrease each subsequent year, culminating in the lowest revenue in 2022. This trend could be indicative of various factors affecting the game delivery industry in the USA, such as market saturation, increased competition, changes in consumer preferences, or external economic factors. Further analysis would be required to pinpoint the exact causes and to develop strategies to counteract this decline in revenue.
   6. The highest revenue is generated from the "Mouse" subgroup, followed closely by "Nintendo" and "Puzzle". On the other end of the spectrum, the "RPG" subgroup generates the least revenue. This distribution suggests a varied consumer preference, with a significant inclination towards hardware components like "Mouse" and gaming consoles like "Nintendo", as well as puzzle games. The data provides valuable insights into market trends and consumer behavior, highlighting potential areas for investment and development within the gaming industry.
 7. New York City (£256,397): New York City contributes the highest revenue, showcasing a dominant market presence and likely being a key hub for sales.
+  
 8.The revenue breakdown by subgroup provides insights into the performance of different product categories:
+
 Negative Performers:
+
 i. PS5 (£17,733.00): This subgroup shows a negative revenue, indicating a loss in sales for this particular product category.
 ii. XBox (£3,479.00): Similar to PS5, XBox also demonstrates a negative revenue figure, suggesting a decline in sales for XBox products.
 iii. Strategy (£1,187.00): Strategy games also exhibit negative revenue, implying lower demand or sales compared to other categories.
 
 Moderate Performers:
+
 i. RPG (£952.00): Though the revenue is positive, it's relatively low compared to other categories, indicating moderate sales performance.
 ii. Keyboards (£3,387.00): Keyboards demonstrate moderate revenue, suggesting a decent but not exceptional performance.
 
