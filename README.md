@@ -17,3 +17,15 @@ In the initial preparation phase, I performed the following task
 
 
 ![Game delivery 2](https://github.com/Adefemi010/Game-delivery/assets/149597242/c240f920-6127-466a-aa4b-dedd5e8dbf03)
+
+### Results and Findings
+1. The cumulative revenue from game deliveries reached an impressive £2,297,354.
+2. Demonstrating a robust financial performance, the total profit amounted to £286,347.
+3. A substantial quantity of 37,873 games were successfully sold during the dataset period.
+4. Presenting the delivery performance breakdown:
+- Shipped Early: 4,909 deliveries
+- Shipped Late: 2,638 deliveries
+- Shipped On Time: 2,447 deliveries
+These figures offer insights into the timeliness of the game shipments, allowing for a comprehensive understanding of the delivery efficiency.
+5. This data indicates a declining trend in revenue over the four years. The highest revenue was recorded in 2019, with a gradual decrease each subsequent year, culminating in the lowest revenue in 2022. This trend could be indicative of various factors affecting the game delivery industry in the USA, such as market saturation, increased competition, changes in consumer preferences, or external economic factors. Further analysis would be required to pinpoint the exact causes and to develop strategies to counteract this decline in revenue.
+  6. The highest revenue is generated from the "Mouse" subgroup, followed closely by "Nintendo" and "Puzzle". On the other end of the spectrum, the "RPG" subgroup generates the least revenue. This distribution suggests a varied consumer preference, with a significant inclination towards hardware components like "Mouse" and gaming consoles like "Nintendo", as well as puzzle games. The data provides valuable insights into market trends and consumer behavior, highlighting potential areas for investment and development within the gaming industry.
